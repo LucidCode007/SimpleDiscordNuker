@@ -1,5 +1,7 @@
 # Simple Nuker
 
+#---------------------------------------------------------------------------------------------------------------------------#
+
 Configuración:
 
 1. descargar python (https://python.org)
@@ -17,7 +19,7 @@ Configuración:
 13. añade el bot a un servidor y dale un rol de administrador
 14. escriba el prefijo que eligió y luego nuke (estándar .nuke)
 
-#-----------------
+#---------------------------------------------------------------------------------------------------------------------------#
 
 Info:
 
