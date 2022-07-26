@@ -16,6 +16,6 @@ Info:
 
 Discord: https://discord.gg/12pm
 
-Developer: alex,,#0001
+Developer: alex,,#1234
 
 Si tienes algun problema no dudes en contactarme por discord.
