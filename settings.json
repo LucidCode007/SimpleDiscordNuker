@@ -1,8 +1,8 @@
 {
     "bot_token": "",
     "prefix": ".",
-    "message_to_spam": "@everyone discord.gg/esquelesquad ",
+    "message_to_spam": "@everyone discord.gg/12pm ",
     "amount_of_channels_to_create": "25",
-    "channel_names": "#EsqueleSquad",
+    "channel_names": "#1234Gang",
     "amount_of_messages_to_send_in_each_channel": "100"
 }
